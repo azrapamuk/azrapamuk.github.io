@@ -253,7 +253,7 @@ export const projects = [
       {
         type: 'image',
         src: '/img/projects/modernhome/products.gif',
-        caption: 'Product browsing and shopping experience prototyše',
+        caption: 'Product browsing and shopping experience prototype',
       },
       {
         type: 'image',
@@ -700,7 +700,7 @@ export const projects = [
     image: '/img/projects/siairline/cover.png',
     role: 'Backend Developer',
     team: '10+ people',
-    duration: 'March - June 2026',
+    duration: 'March - June 2025',
     overview:
       'SIAirline is an airline information system developed using ASP.NET Core and .NET 8. Its backend provides services for flight booking, schedule management, user authentication, and payment processing. It follows a structured architecture with separate controllers, services, data models, and DTOs. My main responsibilities focused on backend functionality for the administrative side of the system, as well as contributing to the implementation of a real-time chat feature within the application.',
     contributions: [
@@ -1310,7 +1310,7 @@ export const projects = [
     date: '2026-01',
     featured: false,
     description:
-      'A cinematic 3D animated short scene featuring a mystical exterior transition into a magical witch hut with an animated grey cat withch and floating enchanted potions.',
+      'A cinematic 3D animated short scene featuring a mystical exterior transition into a magical witch hut with an animated grey cat witch and floating enchanted potions.',
     tags: [
       'Blender',
       '3D Animation',
