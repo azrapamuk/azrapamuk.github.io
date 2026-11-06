@@ -1,4 +1,4 @@
-const LAYERS = [{ src: '/img/bg/far.png', depth: 0.4 },{ src: '/img/bg/near.png', depth: 2 }]
+const LAYERS = [{ src: '/img/bg/far.png', depth: 0.4 },]
 
 export default function Backdrop() {
   return (
