@@ -1428,7 +1428,7 @@ export const projects = [
       'UI Design',
       'VFX'
     ],
-    image: '/img/projects/rezon/cover.png',
+    image: '/img/projects/rezon/week08.png',
     role: 'Gameplay Programmer & Technical Designer',
     team: 'Solo project',
     duration: '9 weeks',
